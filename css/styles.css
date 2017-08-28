@@ -1,0 +1,9 @@
+.logo {
+	padding-left: 10px;
+}
+.parallax{
+  position:static;
+}
+.parallax-container {
+      height: 500px;
+    }
